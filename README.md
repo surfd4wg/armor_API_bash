@@ -1,6 +1,6 @@
 # armor_API_bash
 # Authors:
-#  Craig Ellrod, Joshua Seither
+#  Craig Ellrod
 #
 This repo contains two bash scripts that can be run against V2 of the armor API.
 Reference:
